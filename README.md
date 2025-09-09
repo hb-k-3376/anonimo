@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Anonimo;새로운+소통의+패러다임;🤝&color=7B68EE" />
 </h1>
 
+# 3차 프로젝트 1등 👑
+<img width="643" height="151" alt="스크린샷 2025-09-09 오후 8 58 29" src="https://github.com/user-attachments/assets/b690949e-d63b-45d5-aa9a-e4971f32c9b1" />
+
+
 익명으로 자연스럽게 친해지는 실시간 소통 플랫폼  
 어색함은 잠시, 재미있는 상호작용으로 빠르게 친목을 도모하세요.
 
